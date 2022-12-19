@@ -36,9 +36,6 @@
     <div class="flex flex-col gap-4">
       <Suspense>
         <CityList />
-        <template #fallback>
-          <p>Loading...</p>
-        </template>
       </Suspense>
     </div>
   </main>
