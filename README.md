@@ -1,29 +1,10 @@
-# weather_vue
+Weather | Vue.js
+This application is remembered for the fact that i understand how to use Vue Cli, set up Vue reactive data, Functions in Vue, Conditional rendering and Two-way binding how to create an awesome weather app using Vue 3, Tailwind CSS & the OpenWeather API.
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Environment: VueJS 3, Vuex, GIT, JS, HTML, Vue Cli, Vscode, Axios, Tailwind CSS, OpenWeather API
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![img](https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/img-portfolio/Weather1.png)
+![img](https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/img-portfolio/Weather2.png)
+![img](https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/img-portfolio/Weather3.png)
